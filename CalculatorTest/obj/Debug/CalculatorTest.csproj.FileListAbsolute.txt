@@ -1,0 +1,9 @@
+c:\workspaces\calculator\CalculatorTest\bin\Debug\CalculatorTest.dll
+c:\workspaces\calculator\CalculatorTest\bin\Debug\CalculatorTest.pdb
+c:\workspaces\calculator\CalculatorTest\bin\Debug\calculator.exe
+c:\workspaces\calculator\CalculatorTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\workspaces\calculator\CalculatorTest\bin\Debug\calculator.pdb
+c:\workspaces\calculator\CalculatorTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\workspaces\calculator\CalculatorTest\obj\Debug\CalculatorTest.csprojResolveAssemblyReference.cache
+c:\workspaces\calculator\CalculatorTest\obj\Debug\CalculatorTest.dll
+c:\workspaces\calculator\CalculatorTest\obj\Debug\CalculatorTest.pdb
