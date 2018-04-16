@@ -13,6 +13,12 @@ namespace CalculatorTest {
         public void GetSumWithLettersExpectnull() {
            Assert.AreEqual(null, Program.GetSum("a 2"));
         }
+        [TestMethod]
+        public void GetSumWithLettersExpectnull2() {
+           Assert.AreEqual(null, Program.GetSum("a 2"));
+        }
     }
+
+
 
 }
